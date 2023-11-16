@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a postgraduate from Sichuan University, learing Deep Learning recently. Hope we can make progress together😊
 
 <!--
 **SilenTower/SilenTower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
